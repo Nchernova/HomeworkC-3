@@ -1,0 +1,15 @@
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\obj\Debug\net7.0\Задания из дз.csproj.AssemblyReference.cache
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\obj\Debug\net7.0\Задания из дз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\obj\Debug\net7.0\Задания из дз.AssemblyInfoInputs.cache
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\obj\Debug\net7.0\Задания из дз.AssemblyInfo.cs
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\obj\Debug\net7.0\Задания из дз.csproj.CoreCompileInputs.cache
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\bin\Debug\net7.0\Задания из дз.exe
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\bin\Debug\net7.0\Задания из дз.deps.json
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\bin\Debug\net7.0\Задания из дз.runtimeconfig.json
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\bin\Debug\net7.0\Задания из дз.dll
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\bin\Debug\net7.0\Задания из дз.pdb
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\obj\Debug\net7.0\Задания из дз.dll
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\obj\Debug\net7.0\refint\Задания из дз.dll
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\obj\Debug\net7.0\Задания из дз.pdb
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\obj\Debug\net7.0\Задания из дз.genruntimeconfig.cache
+C:\Users\ZEN\Desktop\ДЗ С#3\Задания из дз\obj\Debug\net7.0\ref\Задания из дз.dll
